@@ -12,7 +12,7 @@ I will focus on **web development** using *html and  css* and getting to underst
 
 -Css
 
-1.First step
+1.Git and Github
 
 2.Second step
 
