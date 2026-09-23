@@ -1,6 +1,6 @@
-## Mine
+## My Learning Goals
 
-### Say
+### This Semester 
 
 -
 -
